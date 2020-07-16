@@ -4,6 +4,7 @@
 
 [![Build Status](https://travis-ci.org/jadkins89/Recipe-Scraper.svg?branch=master)](https://travis-ci.org/jadkins89/Recipe-Scraper)
 [![Coverage Status](https://coveralls.io/repos/github/jadkins89/Recipe-Scraper/badge.svg?branch=master)](https://coveralls.io/github/jadkins89/Recipe-Scraper?branch=master)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=thmsbdr_Recipe-Scraper&metric=alert_status)](https://sonarcloud.io/dashboard?id=thmsbdr_Recipe-Scraper)
 
 ## Installation
 
